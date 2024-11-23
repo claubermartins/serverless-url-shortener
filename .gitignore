@@ -1,0 +1,31 @@
+# Diretórios do IntelliJ IDEA (ou qualquer IDE)
+.idea/
+
+# Arquivos de configuração do Maven (não versionar dependências locais)
+target/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários do sistema
+*.tmp
+*.swp
+*.bak
+
+# Arquivos de compilação do Java
+*.class
+
+# Dependências do Maven
+*.jar
+*.war
+*.ear
+
+# Arquivos de configuração do sistema operacional (Linux/Mac)
+.DS_Store
+Thumbs.db
+
+# Configurações do Maven
+.settings/
+
+# Arquivos de configuração local do Maven (se houver)
+*.iml
